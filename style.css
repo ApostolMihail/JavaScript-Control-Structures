@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    padding: 10px;
+    margin-top: 4px;
+    border-radius: 20px 20px 20px 20px;
+    border-color: rgb(223, 91, 98);
+    border-style:  inset;
+}
+
+button:hover {
+    box-shadow: 2px 2px 1px 2px rgb(198, 206, 206);
+    margin: 5px;
+}
+
+h2 {
+    margin: 10px;
+    box-shadow: 2px 2px 2px rgb(141, 85, 11);
+    width: 140px;
+    border-radius: 90% 20px 2px;
+}
+
+h3 {
+    padding: 10px;
+}
